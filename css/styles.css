@@ -1,0 +1,191 @@
+/*Rules that Apply to Multiple Sections*/
+
+body {
+	background-color: #000000;
+	padding-top: 51px;
+	position: relative;
+}
+
+.main-text {
+	clear: both;
+	padding-top: 60px;
+}
+
+.intro-line {
+  text-align: center;
+}
+
+
+/*Navbar*/
+
+.nav {
+	float: right;
+}
+
+/*Home/Carousel*/
+
+.carousel-caption h1 {
+  color: #ffffff;
+  font-family: Verdana;
+  text-align: center;
+  position: center;
+}
+
+.row {
+	background-color: #000000;
+
+}
+
+/*About*/
+
+
+img {
+	width: 100%
+}
+
+/*Contact Me*/
+
+#ContactMe {
+	background-image: url("../img/OT-Alley.jpg");
+	}
+
+
+/*Contact Form*/
+
+.form-control {
+	width: 80%;
+}
+
+textarea {
+	color: #000000;
+}
+
+/*Learn More*/
+
+
+.learn-more {
+	text-align: left;
+	float: left;
+	padding-top:75px;
+	padding-bottom: 5px;
+}
+
+.modal-button {
+	float: right;
+	padding-top: 75px;
+	padding-bottom: 15px;
+}
+
+#modalembed {
+	height: 500px;
+	width: 100%;
+	padding: 10px;
+}
+
+.FAQ-title{
+  clear: both;
+  padding-top: 60px;
+}
+
+.intro-line {
+  text-align: center;
+}
+
+table {
+	text-align: left;
+	width: 100%;
+}
+
+
+/*Typography*/
+
+.panel-body {
+  font-family: Georgia, Garamond, serif;
+}
+
+/*Work*/
+
+#Work {
+	font-family: Verdana;
+	font-size: 18px;
+	text-align: center;
+}
+
+.image {
+    box-sizing:border-box;
+    border:2px solid white;
+    width:500px;
+    height:500px;
+    margin:5px;
+    display:inline-block;
+    position:relative;
+}
+.info {
+    display:inline-block;
+    color:#fff;
+    font-family:Futura;
+    text-transform:uppercase;
+    font-weight:700;
+    letter-spacing:0.5em;
+    line-height:1.6;
+    position:absolute;
+    top:15%;
+    left:22%;
+}
+.proj-title {
+    font-weight:100;
+}
+
+/*Footer*/
+
+footer {
+	background-color: #000000;
+	color: #ffffff; 
+	text-align: center;
+}
+
+
+/*Typography*/
+
+a {
+	font-family: Georgia, Garamond, serif;
+	color: #ffffff;
+
+}
+
+h1 {
+	font-family: Georgia, Garamond, serif;
+	color: #ffffff;
+}
+
+h2 {
+	font-family: Georgia, Garamond, serif;
+	color: #ffffff;
+}
+
+h3 {
+	font-family: Georgia, Garamond, serif;
+	color: #ffffff;
+}
+
+p {
+	font-family: Georgia, Garamond, serif;
+	color: #ffffff;
+}
+
+label {
+	color: white;
+}
+
+li {
+	font-family: Georgia, Garamond, serif;
+	color: #ffffff;
+}
+
+
+.table-text {
+	font-family: Georgia, Garamond, serif;
+	color: black;
+}
+
+/*-------- End CSS --------*/
